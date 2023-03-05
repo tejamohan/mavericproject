@@ -11,10 +11,13 @@ public interface DefaultMethods {
 		System.out.println("in side default method" +a);
 		return a-b;
 	}
+
 	//  static void add(int a,int b) {
 	//	  int c=a+b;
 	//	  System.out.println(c);
 	 // }
+
+
 
 
 	

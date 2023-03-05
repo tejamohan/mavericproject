@@ -6,7 +6,7 @@ public abstract class AbstractExample {
 	
 	abstract void show();
 	abstract int div(int a,int b);
-	
+	//welcome to git 
 	static int x=20;
 	int y=20;
 	static {
